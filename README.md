@@ -7,14 +7,17 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
 
 ### 🚀 Key Automation Wins & Projects
 
-* **[Enterprise Retail Data Simulator](https://github.com/Akash-Londhe/Enterprise-Retail-Data-Simulator-Clean-)** *A Python-based data generator that simulates a ₹100 Crore retail business. It generates 10 fully reconciled CSV files (SKUs, sales, bank ledger, payroll, etc.) ready for Power BI, Tableau, or SQL.*
+* **[Enterprise Retail Data Simulator](https://github.com/Akash-Londhe/Enterprise-Retail-Data-Simulator-Clean-)**
 
+  - A Python-based data generator that simulates a ₹100 Crore retail business. It generates 10 fully reconciled CSV files (SKUs, sales, bank ledger, payroll, etc.) ready for Power BI, Tableau, or SQL.*
+    
 * **[GSTR-2B Reconciliation Engine (v5.8.1 - Master Edition)](https://github.com/Akash-Londhe/GST-Reconciliation-Engine-VBA):**
-* Engineered a high-speed "Waterfall Logic" system using VBA Dictionary objects to reconcile thousands of ERP entries with GSTR-2B portal data.
-
-Built comprehensive audit-safe reporting modules, including Exception Reports and Vendor Follow-up logs to ensure 100% tax compliance.
-
-Developed a secure, memory-optimized dashboard that reduces manual reconciliation time from 4 hours to just 20 minutes.
+  
+  - Engineered a high-speed "Waterfall Logic" system using VBA Dictionary objects to reconcile thousands of ERP entries with GSTR-2B portal data.
+    
+  - Built comprehensive audit-safe reporting modules, including Exception Reports and Vendor Follow-up logs to ensure 100% tax compliance.
+    
+  - Developed a secure, memory-optimized dashboard that reduces manual reconciliation time from 4 hours to just 20 minutes.
 
 ### 🛠️ Tech & Tools
 
