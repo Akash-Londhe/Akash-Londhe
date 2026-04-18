@@ -10,8 +10,8 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
 * **[Enterprise Retail Data Simulator](https://github.com/Akash-Londhe/Enterprise-Retail-Data-Simulator-Clean-)**
 
 * The Problem: Most data analysts cannot practice or demonstrate their skills because real company data is private and sensitive.
+  
 **The Solution:**
-
   - Built a Python-powered engine that generates a **synthetic ₹100 Crore retail environment** with 100% privacy.
   
   - Produces 10 fully reconciled datasets (Sales, Payroll, SKU, Bank) designed for **stress-testing Power BI and SQL** architectures without risking real-world data leaks.
@@ -22,6 +22,7 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
   
 * The Problem: Big-4 accounting firms and enterprise software companies charge thousands of dollars for reconciliation tools that often struggle with large, messy retail datasets.
   
+**The Solution:**
   - Engineered a proprietary **"Waterfall Logic"** using VBA Dictionary objects to handle complex data matching at enterprise speeds.
     
   - Privacy-First Demo: The repository includes a **5,000-row synthetic dataset**, allowing any auditor or recruiter to **test the engine's 100% accuracy without accessing private company records**.
