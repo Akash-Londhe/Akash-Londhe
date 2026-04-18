@@ -27,7 +27,7 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
     
   - Privacy-First Demo: The repository includes a **5,000-row synthetic dataset**, allowing any auditor or recruiter to **test the engine's 100% accuracy without accessing private company records**.
     
-  - **Automation Win****:** Reduced a repetitive **4-hour manual reconciliation task to just 20 minutes**, allowing the finance team to focus on resolving tax discrepancies instead of cleaning data
+  - **Automation Win:** Reduced a repetitive **4-hour manual reconciliation task to just 20 minutes**, allowing the finance team to focus on resolving tax discrepancies instead of cleaning data
  
   - **Audit-Safe:** Features a built-in "Security Vault" and immutable Audit Logs to ensure every claim is mathematically proven and authorized.
  
