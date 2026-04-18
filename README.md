@@ -19,5 +19,5 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [Insert your LinkedIn URL here]
+* **LinkedIn:** https://www.linkedin.com/in/akash-londhe45/
 * **Email:** Alondhe112@gmail.com
