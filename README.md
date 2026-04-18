@@ -22,6 +22,9 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
   - Built comprehensive audit-safe reporting modules, including Exception Reports and Vendor Follow-up logs to ensure 100% tax compliance.
     
   - Developed a secure, memory-optimized dashboard that reduces manual reconciliation time from 4 hours to just 20 minutes.
+ 
+  - <img width="1352" height="779" alt="image" src="https://github.com/user-attachments/assets/72b85d73-ee0e-4bce-a8a4-cb15c97462ca" />
+
 
 ### 🛠️ Tech & Tools
 
