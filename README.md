@@ -30,8 +30,9 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
   - **Automation Win:** Reduced a repetitive **4-hour manual reconciliation task to just 20 minutes**, allowing the finance team to focus on resolving tax discrepancies instead of cleaning data
  
   - **Audit-Safe:** Features a built-in "Security Vault" and immutable Audit Logs to ensure every claim is mathematically proven and authorized.
+    
  
-  - <img width="1352" height="779" alt="image" src="https://github.com/user-attachments/assets/72b85d73-ee0e-4bce-a8a4-cb15c97462ca" />
+   <img width="1352" height="779" alt="image" src="https://github.com/user-attachments/assets/72b85d73-ee0e-4bce-a8a4-cb15c97462ca" />
 
 
 ### 🛠️ Tech & Tools
