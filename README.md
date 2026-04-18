@@ -15,7 +15,7 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
   
   - Prioritizes data privacy by creating 100% synthetic datasets for testing automation tools without compromising sensitive company information.
     
-* **[GSTR-2B Reconciliation Engine (v5.8.1 - Master Edition)](https://github.com/Akash-Londhe/GST-Reconciliation-Engine-VBA):**
+* **[GSTR-2B Reconciliation Engine (v5.8.1 - M Edition)](https://github.com/Akash-Londhe/GST-Reconciliation-Engine-VBA):**
   
   - Engineered a high-speed "Waterfall Logic" system using VBA Dictionary objects to reconcile thousands of ERP entries with GSTR-2B portal data.
     
