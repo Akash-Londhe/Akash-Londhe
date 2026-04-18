@@ -3,7 +3,7 @@
 
 I am a finance professional specializing in omnichannel reconciliations, statutory audits, and working capital optimization. With over 3.5 years of experience, I bridge the gap between traditional accounting and modern technology.
 
-### **🧠 My Philosophy: "AI does the hard work, I do the smart work."** I don't write code from scratch. Instead, I act as an architect. I map out complex financial logic, design the constraints, and leverage AI tools to generate robust VBA scripts, Power Query models, and automated Excel engines. 
+**🧠 My Philosophy: "AI does the hard work, I do the smart work."** I don't write code from scratch. Instead, I act as an architect. I map out complex financial logic, design the constraints, and leverage AI tools to generate robust VBA scripts, Power Query models, and automated Excel engines. 
 
 ## 🚀 Key Automation Wins & Projects
 
