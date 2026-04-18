@@ -1,5 +1,5 @@
 # Hi, I'm Akash Londhe 👋
-### Accounts & Reconciliation Analyst | Financial Operations Automation
+## Accounts & Reconciliation Analyst | Financial Operations Automation
 
 I am a finance professional specializing in omnichannel reconciliations, statutory audits, and working capital optimization. With over 3.5 years of experience, I bridge the gap between traditional accounting and modern technology.
 
@@ -35,13 +35,13 @@ I am a finance professional specializing in omnichannel reconciliations, statuto
    <img width="1352" height="779" alt="image" src="https://github.com/user-attachments/assets/72b85d73-ee0e-4bce-a8a4-cb15c97462ca" />
 
 
-### 🛠️ Tech & Tools
+## 🛠️ Tech & Tools
 
 * **Domain Expertise:** Omnichannel Reconciliation, Bank Audits, Inventory Control, MIS Reporting.
 * **Automation:** Advanced Excel (Data Models, Power Query, Macros/VBA).
 * **AI & Prompting:** Expert in utilizing AI models to generate complex financial scripts, troubleshoot errors, and streamline workflows.
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 * **LinkedIn:** https://www.linkedin.com/in/akash-londhe45/
 * **Email:** Alondhe112@gmail.com
